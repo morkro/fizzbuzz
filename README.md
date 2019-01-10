@@ -13,3 +13,5 @@
 I've done it in:
 
 - JavaScript
+- Python
+- Ruby
