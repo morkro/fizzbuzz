@@ -15,3 +15,12 @@ I've done it in:
 - JavaScript
 - Python
 - Ruby
+- Go
+- Elixir
+
+### To Do
+
+- Lua
+- Lisp
+- PHP
+- Java
