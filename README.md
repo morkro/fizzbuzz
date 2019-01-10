@@ -23,6 +23,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - TypeScript
 - PHP
 - CoffeeScript
+- Dart
 
 ### To Do
 
@@ -38,8 +39,6 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - C#
 - F#
 - COBOL
-- CoffeeScript
-- Dart
 - Swift
 - Assembly
 - Haskell
