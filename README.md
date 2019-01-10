@@ -20,13 +20,16 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Go
 - Elixir
 - Lua
+- TypeScript
+- PHP
 
 ### To Do
 
 - Lisp
-- PHP
+- AppleScript
 - Java
 - Perl
+- Rust
 - Groovy
 - Clojure
 - C
@@ -34,7 +37,6 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - C#
 - F#
 - COBOL
-- TypeScript
 - CoffeeScript
 - Dart
 - Swift
@@ -45,6 +47,8 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - R
 - Pascal
 - Scala
+- Fortran
+- MySQL
 - VisualBasic
 - Brainfuck
 - ... and more
