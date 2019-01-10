@@ -1,6 +1,6 @@
 # Fizz Buzz-ing my way through languages
 
-# The Rules
+## The Rules
 
 A program that:
 
@@ -10,7 +10,7 @@ A program that:
 - multiples of both 3 and 5 print "FizzBuzz"
 - print the number itself otherwise
 
-# Languages
+## Languages
 
 I've done it in:
 
@@ -26,4 +26,24 @@ I've done it in:
 - Lisp
 - PHP
 - Java
+- Perl
+- Groovy
+- Clojure
+- C
+- C++
+- C#
+- F#
+- COBOL
+- TypeScript
+- CoffeeScript
+- Dart
+- Assembly
+- Haskell
+- Julia
+- Kotlin
+- R
+- Pascal
+- Scala
+- VisualBasic
+- Brainfuck
 - ... and more
