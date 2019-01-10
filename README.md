@@ -24,6 +24,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - PHP
 - CoffeeScript
 - Dart
+- Rust
 
 ### To Do
 
@@ -31,7 +32,6 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - AppleScript
 - Java
 - Perl
-- Rust
 - Groovy
 - Clojure
 - C
