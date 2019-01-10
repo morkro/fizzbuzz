@@ -4,15 +4,15 @@
 
 A program that:
 
-- prints the numbers from 1 to 100
-- multiples of 3 print "Fizz"
-- multiples of 5 print "Buzz"
-- multiples of both 3 and 5 print "FizzBuzz"
+- prints the numbers from `1` to `100`
+- multiples of `3` print `"Fizz"`
+- multiples of `5` print `"Buzz"`
+- multiples of both `3` and `5` print `"FizzBuzz"`
 - print the number itself otherwise
 
 ## Languages
 
-I've done it in:
+Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 
 - JavaScript
 - Python
@@ -37,6 +37,7 @@ I've done it in:
 - TypeScript
 - CoffeeScript
 - Dart
+- Swift
 - Assembly
 - Haskell
 - Julia
