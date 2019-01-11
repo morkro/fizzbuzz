@@ -28,6 +28,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Kotlin
 - Perl
 - Haskell (needs improvements, loop has to be reversed)
+- Clojure
 
 ### To Do
 
@@ -35,7 +36,6 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - AppleScript
 - Java
 - Groovy
-- Clojure
 - C
 - C++
 - C#
