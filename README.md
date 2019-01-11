@@ -30,6 +30,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Haskell (needs improvements, loop has to be reversed)
 - Clojure
 - Julia
+- Scala
 
 ### To Do
 
@@ -46,7 +47,6 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Assembly
 - R
 - Pascal
-- Scala
 - Fortran
 - MySQL
 - VisualBasic
