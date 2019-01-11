@@ -26,13 +26,13 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Dart
 - Rust
 - Kotlin
+- Perl
 
 ### To Do
 
 - Lisp
 - AppleScript
 - Java
-- Perl
 - Groovy
 - Clojure
 - C
