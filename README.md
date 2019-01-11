@@ -29,6 +29,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Perl
 - Haskell (needs improvements, loop has to be reversed)
 - Clojure
+- Julia
 
 ### To Do
 
@@ -43,7 +44,6 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - COBOL
 - Swift
 - Assembly
-- Julia
 - R
 - Pascal
 - Scala
