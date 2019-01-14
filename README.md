@@ -36,6 +36,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Shell
 - Sass
 - F#
+- LOLCODE
 
 ### To Do
 
@@ -43,6 +44,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Java
 - Groovy
 - C
+- Elm
 - C++
 - C#
 - COBOL
