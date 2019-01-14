@@ -34,6 +34,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - AppleScript
 - Swift
 - Shell
+- Sass
 
 ### To Do
 

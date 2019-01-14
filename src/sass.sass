@@ -1,0 +1,16 @@
+@mixin log ($msg)
+  content: $msg
+
+#fizzbuzz
+  @for $i from 1 through 100
+    $fizz: $i % 3 == 0
+    $buzz: $i % 5 == 0
+
+    @if $fizz and $buzz
+      @include log("FizzBuzz")
+    @else if $fizz
+      @include log("Fizz")
+    @else if $buzz
+      @include log("Buzz")
+    @else
+      @include log("#{$i}")
