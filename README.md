@@ -31,11 +31,11 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Clojure
 - Julia
 - Scala
+- AppleScript
 
 ### To Do
 
 - Lisp
-- AppleScript
 - Java
 - Groovy
 - C
