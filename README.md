@@ -32,6 +32,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - Julia
 - Scala
 - AppleScript
+- Swift
 
 ### To Do
 
@@ -43,7 +44,6 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - C#
 - F#
 - COBOL
-- Swift
 - Assembly
 - R
 - Pascal
