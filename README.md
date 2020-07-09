@@ -38,6 +38,7 @@ Expected output can be found in [`src/text.txt`](src/text.txt). I've done it in:
 - F#
 - LOLCODE
 - OCaml
+- PureScript
 
 ### To Do
 
